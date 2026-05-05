@@ -59,6 +59,7 @@ Advanced-AVL-Tree/
 ├── tree.py     # AVL rotations + search
 ├── gui.py      # Animated GUI + drawing
 ├── main.py     # Launcher
+├── LICENSE
 └── README.md   
 ```
 ---
